@@ -30,6 +30,6 @@ The purpose of this dashboard is to convert hospital emergency room data into cl
 ## Key Learnings
 Through this project, I practiced data cleaning, pivot table creation, chart building, slicer usage, KPI design, and professional dashboard formatting in Excel.
 ## Dashboard Preview
-![Dashboard Preview](assets/dashboard_preview.png)
+![Dashboard Preview](Hospital%20Emergency%20Room%20Dashboard.JPG)
 ## Author
 Swetabh Suman
